@@ -1,0 +1,5 @@
+The packages needed to run the code is the textblob package.
+
+I used the following in order to run the code:
+  pip install -U TextBlob
+  python -m textblob.download_corpora
