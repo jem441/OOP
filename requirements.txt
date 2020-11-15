@@ -6,3 +6,5 @@ cd textblobenv
   pip install -U TextBlob
   python -m textblob.download_corpora
   
+cd Scripts
+activate
